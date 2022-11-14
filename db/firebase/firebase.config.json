@@ -1,9 +1,9 @@
 {
   "type": "service_account",
-  "project_id": "proyectofinal-backend-6b6c6",
-  "private_key_id": "fc792086286e67db6df14c830ce1f7b1ec348e5d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLEelhLk3c5YYG\n96e/07Px0MFqyHoGpw5jn45Em11TSEFC4gCo3kUiUelP8gT3iAUeUvCz+wJLdToW\ndES9e2fVhTHTzF1sYKM89Rn0VHoGrG57WxbcJNZCtyil1/bN7MwtD5aQzEQAKc5r\n2+mbwr9ZmsodXKioVueYcGqLIYfjZ5Qvj2JlUNOAuY2jpNTPFL+WNVdWvWv8mxf3\n0VRenPBAQw+I6JwXLtkd3zh5onosSOfTiw+iC9+kOkZCyeBa5wXnzfwLyjUOKeto\nvOS2WN5bZbYEeFbNotyB7jrFN3D/29Se3NHDr5Ut22BlypxdT9TSfZ1aL6RKTkzh\n77rwYdyJAgMBAAECggEACaYeOrnihT56sdYOqHS8th6/Mf24npxNeLpaHjRrqMtk\nHnNyqJN3IXxW46+SQNi7tYcnXMXug/tb+TkpEv/MHT8o8PFi9wVYfEsBIrTo32xO\nC5p2aZtuetkNG2Q5m+tGgFWfR94M1R0na8SVQwtr4CwUsnR2pxkKBBpDVb0QIePy\nW3EzgHzHVOM0zRMC3tPaKpyLJyDlKxaIeXGNREhnu79BH7awUZSxCPUnV50l2+IP\nOpJHZHBTw6Uok7uTpqHdynsEu6pgC4APhVpzTbEbN1xFShGYYx4bO67kuTO3BS9X\nWb6ncH8x8RY0Si+M3JfIVC7oxh5Wx9SQ9OoUuYzJAQKBgQDvE5xRagzwdg9jswrN\n0RbifKNlHDNOtM9umjVtgdXjFydovMHo84Of9+4wqO3k0HNpEFwCQAr6dvLINvuE\nMYS/g7fp5+k3sn3Fqb4S3scVX2VMkVWJv2beWoZSFoxMmb1H3pAMct3sIwvQo5Sv\nStw0I72TZoBIv28o5LwPiq74cQKBgQDZcc/3r8YfFPqXF0Fo/72onLfIKhf7vYs+\n0wB3upr8YJmwayjVpSXUOVPSUOlnut/tMzGFg5FnEeju7bRuuUo8KyF6+6tpuGVd\nCfkC08EQI6swiHAKUz/o9hHibTGeUtpFogvkdezq83OJzrg5WcGmmsDyWwNNOV+m\nvqMs0z3xmQKBgQDPy5m4YZaxgcvKehnP3gYoAPD7ttEZfao1la8OaSUAZmWIcVeR\nI+apqZLLlGiA0nUdQmzWP9fK7owCXVerBGc/FjtKAJoCIQ+UN/7O4/bhqrKfJErW\nmRfN95x7yMFU6uNLjjRhvY0J60Qfqa5X1ZcjclUZwqOJl2oEfxq932pI4QKBgCGt\nNM5hlMefkifwXBsM8Ky6iOQhUNGWS4iRWVMxvWs08tiV4B8mkrNJpae/DEcadC/i\na9sHw285IOBQRE+ZttuWunq3m5amDlzYfI5piU8clxjPKLsQpadI5QAydSrWHiQG\nstzRPr4ssko3j+Sh+BH7icJ/QgWlyyCiCdeZZ9CRAoGAcy5EfTFRBwT02N66q6PF\nGDb8g/dfYt+K59Y/wPYMq+noNUXbIiGGj6izlgv1xrQ90dkHNQvUkCHeeKEcpl10\notBKI0gFKxER4DlNNBScIqsb/dM/KpT3fwX/znPtRmSZc1w3endmm+8MLmLW0rRt\n7kcp7cj2X5FCP9LVL/TpUIA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-yd97o@proyectofinal-backend-6b6c6.iam.gserviceaccount.com",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
   "client_id": "113568658539384020166",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
